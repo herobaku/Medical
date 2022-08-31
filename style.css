@@ -17,3 +17,5 @@ header { background: url('img/headerbg.jpg') center/cover }
 
 .bg-darkblue { background: #072035; }
 .fs-08 { font-size: .8em; }
+
+.quote { background: url("img/quote.png") no-repeat center top/29px 27px; /* width: 29px; height: 27px; */ }
