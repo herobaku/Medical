@@ -12,3 +12,7 @@ header { background: url('img/headerbg.jpg') center/cover }
 .bg-mavi { background-color: var(--mavi) }
 .text-mavi { color: var(--mavi) }
 .vh-50 { min-height: 50vh }
+
+.px-70 { height: 70px; }
+
+.bg-darkblue { background: #072035; }
