@@ -1,0 +1,14 @@
+:root { --mavi: #6bc2f1 }
+header { background: url('img/headerbg.jpg') center/cover }
+
+.hekim { max-height: 600px; object-fit: contain }
+.img1 { background: url('img/img1.jpg') center/cover }
+.img2 { background: url('img/img2.jpg') center/cover }
+.img1:hover, .img2:hover { opacity: .5}
+.img1:hover h5, .img2:hover h5 { visibility: visible !important }
+
+.bg-white-transp { background-color: #ffffffcc }
+.bg-boz { background-color: #f1f1f1 }
+.bg-mavi { background-color: var(--mavi) }
+.text-mavi { color: var(--mavi) }
+.vh-50 { min-height: 50vh }
